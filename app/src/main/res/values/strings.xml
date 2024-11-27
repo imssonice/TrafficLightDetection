@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">detect</string>
+    <string name="signal_icon_desc">Traffic signal icon</string>
+</resources>
